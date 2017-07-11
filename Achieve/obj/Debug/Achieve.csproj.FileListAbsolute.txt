@@ -1,0 +1,9 @@
+C:\Code\Demo2016\AutoFacDemo\Achieve\bin\Debug\Achieve.dll
+C:\Code\Demo2016\AutoFacDemo\Achieve\bin\Debug\Achieve.pdb
+C:\Code\Demo2016\AutoFacDemo\Achieve\bin\Debug\Lab.Infrastructure.dll
+C:\Code\Demo2016\AutoFacDemo\Achieve\bin\Debug\Autofac.dll
+C:\Code\Demo2016\AutoFacDemo\Achieve\bin\Debug\Lab.Infrastructure.pdb
+C:\Code\Demo2016\AutoFacDemo\Achieve\bin\Debug\Autofac.xml
+C:\Code\Demo2016\AutoFacDemo\Achieve\obj\Debug\Achieve.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\AutoFacDemo\Achieve\obj\Debug\Achieve.dll
+C:\Code\Demo2016\AutoFacDemo\Achieve\obj\Debug\Achieve.pdb

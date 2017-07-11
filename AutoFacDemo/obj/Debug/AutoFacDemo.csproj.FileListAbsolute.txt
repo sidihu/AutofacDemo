@@ -1,0 +1,10 @@
+C:\Code\Demo2016\AutoFacDemo\AutoFacDemo\bin\Debug\AutoFacDemo.exe.config
+C:\Code\Demo2016\AutoFacDemo\AutoFacDemo\bin\Debug\AutoFacDemo.exe
+C:\Code\Demo2016\AutoFacDemo\AutoFacDemo\bin\Debug\AutoFacDemo.pdb
+C:\Code\Demo2016\AutoFacDemo\AutoFacDemo\bin\Debug\Lab.Infrastructure.dll
+C:\Code\Demo2016\AutoFacDemo\AutoFacDemo\bin\Debug\Autofac.dll
+C:\Code\Demo2016\AutoFacDemo\AutoFacDemo\bin\Debug\Lab.Infrastructure.pdb
+C:\Code\Demo2016\AutoFacDemo\AutoFacDemo\bin\Debug\Autofac.xml
+C:\Code\Demo2016\AutoFacDemo\AutoFacDemo\obj\Debug\AutoFacDemo.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\AutoFacDemo\AutoFacDemo\obj\Debug\AutoFacDemo.exe
+C:\Code\Demo2016\AutoFacDemo\AutoFacDemo\obj\Debug\AutoFacDemo.pdb

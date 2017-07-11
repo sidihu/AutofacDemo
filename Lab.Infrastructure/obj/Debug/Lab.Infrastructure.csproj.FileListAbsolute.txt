@@ -1,0 +1,7 @@
+C:\Code\Demo2016\AutoFacDemo\Lab.Infrastructure\bin\Debug\Lab.Infrastructure.dll
+C:\Code\Demo2016\AutoFacDemo\Lab.Infrastructure\bin\Debug\Lab.Infrastructure.pdb
+C:\Code\Demo2016\AutoFacDemo\Lab.Infrastructure\bin\Debug\Autofac.dll
+C:\Code\Demo2016\AutoFacDemo\Lab.Infrastructure\bin\Debug\Autofac.xml
+C:\Code\Demo2016\AutoFacDemo\Lab.Infrastructure\obj\Debug\Lab.Infrastructure.dll
+C:\Code\Demo2016\AutoFacDemo\Lab.Infrastructure\obj\Debug\Lab.Infrastructure.pdb
+C:\Code\Demo2016\AutoFacDemo\Lab.Infrastructure\obj\Debug\Lab.Infrastructure.csprojResolveAssemblyReference.cache

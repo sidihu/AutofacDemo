@@ -1,0 +1,9 @@
+C:\Code\Demo2016\AutoFacDemo\Consumer\bin\Debug\Web.Infrastructure.dll
+C:\Code\Demo2016\AutoFacDemo\Consumer\bin\Debug\Autofac.dll
+C:\Code\Demo2016\AutoFacDemo\Consumer\bin\Debug\Web.Infrastructure.pdb
+C:\Code\Demo2016\AutoFacDemo\Consumer\bin\Debug\Autofac.xml
+C:\Code\Demo2016\AutoFacDemo\Consumer\obj\Debug\Plug.Consumer.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\AutoFacDemo\Consumer\bin\Debug\Plug.Consumer.dll
+C:\Code\Demo2016\AutoFacDemo\Consumer\bin\Debug\Plug.Consumer.pdb
+C:\Code\Demo2016\AutoFacDemo\Consumer\obj\Debug\Plug.Consumer.dll
+C:\Code\Demo2016\AutoFacDemo\Consumer\obj\Debug\Plug.Consumer.pdb

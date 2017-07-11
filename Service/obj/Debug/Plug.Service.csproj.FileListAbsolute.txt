@@ -1,0 +1,9 @@
+C:\Code\Demo2016\AutoFacDemo\Service\bin\Debug\Plug.Service.dll
+C:\Code\Demo2016\AutoFacDemo\Service\bin\Debug\Plug.Service.pdb
+C:\Code\Demo2016\AutoFacDemo\Service\bin\Debug\Web.Infrastructure.dll
+C:\Code\Demo2016\AutoFacDemo\Service\bin\Debug\Autofac.dll
+C:\Code\Demo2016\AutoFacDemo\Service\bin\Debug\Web.Infrastructure.pdb
+C:\Code\Demo2016\AutoFacDemo\Service\bin\Debug\Autofac.xml
+C:\Code\Demo2016\AutoFacDemo\Service\obj\Debug\Plug.Service.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\AutoFacDemo\Service\obj\Debug\Plug.Service.dll
+C:\Code\Demo2016\AutoFacDemo\Service\obj\Debug\Plug.Service.pdb

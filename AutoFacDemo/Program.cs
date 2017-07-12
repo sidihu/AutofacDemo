@@ -18,7 +18,7 @@ namespace AutoFacDemo
         static void Main(string[] args)
         {
             service =  WorkContext.GetServiceObject();
-            service.WriteString("aa");
+            service.WriteString("aa"); 
             //Program p = new Program();
             //p.a();
         }
